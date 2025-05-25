@@ -22,3 +22,5 @@ Este repositorio contiene **todos los programas y ejercicios** que he implementa
   Como pasar argumentos a los programas. Similar a como funciona `argc`, `argv` en `C`
 - `Sección BSS`
   Sección extra para variables globales y estaticas que no se les da un valor inicial en el código.
+- `Contar hasta 10`
+  Incrementar un registro hasta 10 y pasar el número a ASCII para poder imprimirlo por pantalla
