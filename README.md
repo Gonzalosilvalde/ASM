@@ -20,3 +20,5 @@ Este repositorio contiene **todos los programas y ejercicios** que he implementa
   Añadimos el salto de linea en la funcion en vez de añadirlo en el String.
 - `Paso de Argumentos`
   Como pasar argumentos a los programas. Similar a como funciona `argc`, `argv` en `C`
+- `Sección BSS`
+  Sección extra para variables globales y estaticas que no se les da un valor inicial en el código.
